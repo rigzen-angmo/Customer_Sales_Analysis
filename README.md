@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes customer shopping and sales data using Power BI and DAX.
+This project analyzes customer shopping and sales data using Power BI and Power Query.
 
 The main goal of the project is to understand customer buying patterns and sales performance based on gender, age groups, product categories, and payment methods.
 
