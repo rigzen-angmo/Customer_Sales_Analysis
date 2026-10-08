@@ -82,7 +82,7 @@ The Power BI dashboard presents the main findings using charts, cards, and inter
 
 ## Project Files
 
-- Power BI Dashboard (`.pbix`)
-- Project Presentation (`.pptx`)
-- Analysis Report (`.docx`)
-- Dashboard Screenshot (`.png`)
+- Power BI Dashboard(`.pbix`)
+- Project Presentation(`.pptx`)
+- Analysis Report(`.docx`)
+- Dashboard Screenshot(`.png`)
